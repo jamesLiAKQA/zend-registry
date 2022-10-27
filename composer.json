@@ -20,7 +20,5 @@
 	},
 	"suggest": {
 		"zf1/zend-loader": "Used in special situations or with special adapters"
-	},"replace": {
-    		"zf1/zend-registry":"1.12.20"
 	}
 }
